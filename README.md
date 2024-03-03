@@ -1,4 +1,4 @@
-# Discription
+# Description
 
 Skill Builder - Part 1: Getting Started with GitHub
 
